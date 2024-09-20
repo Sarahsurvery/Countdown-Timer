@@ -1,0 +1,56 @@
+body {
+text-align:center;
+background-color: rgb(185, 136, 231);
+}
+
+h1{
+   color: rgb(46, 5, 122); 
+   font-size: 50px;
+   font-style: oblique;
+}
+
+table{
+    margin:auto;
+}
+
+th{
+    color: brown;
+    font-size: 30px;
+}
+
+input{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+button{
+    min-width: 150px;
+    min-height: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: black;
+    background-color: grey;
+}
+
+.countdown{
+    display: flex;
+    justify-content: center;
+}
+
+.heading{
+    color: black;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.time{
+    background-color: rgb(10, 12, 8);
+    color: darksalmon;
+    font-size: 100px;
+    width: 150px;
+    height: 120px;
+    margin: 0 10px;
+}
