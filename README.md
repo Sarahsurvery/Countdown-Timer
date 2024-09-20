@@ -1,5 +1,5 @@
 # Countdown-Timer
-My first HTML CSS and JavaScript project
+My first HTML CSS and JavaScript project.
 The Countdown Timer Project is a beginner-friendly web development task that introduces core HTML, CSS, and JavaScript concepts. 
 The goal is to create a dynamic countdown timer that displays the remaining time until a specific event or date, updating in real time.
 Key Components:
